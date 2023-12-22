@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **karangupta158/karangupta158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,4 @@ https://www.instagram.com/_karan_gupta_6356/
 https://www.linkedin.com/in/karan-gupta-bb9b58216/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
