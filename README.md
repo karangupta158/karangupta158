@@ -1,5 +1,3 @@
-# Hi there, I'm [Karan]! 👋
-
 ![Welcome Banner](github-header-image.png)
 
 ## About Me
