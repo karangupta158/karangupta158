@@ -1,6 +1,6 @@
 # Hi there, I'm [Karan]! 👋
 
-![Welcome Banner](https://github.com/yourusername/yourusername/raw/main/C:\Users\Karan\Downloads\github-header-image)
+![Welcome Banner](github-header-image.png)
 
 ## About Me
 - 🔭 I’m currently working on MERN stack projects!
