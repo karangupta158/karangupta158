@@ -1,13 +1,13 @@
 # Hi there, I'm [Karan]! 👋
 
-![Welcome Banner](https://github.com/yourusername/yourusername/raw/main/welcome-banner.png)
+![Welcome Banner](https://github.com/yourusername/yourusername/raw/main/C:\Users\Karan\Downloads\github-header-image)
 
 ## About Me
 - 🔭 I’m currently working on MERN stack projects!
 - 🌱 I’m currently learning advanced React patterns.
 - 👯 I’m looking to collaborate on open-source MERN stack projects.
 - 💬 Ask me about MongoDB, Express.js, React, and Node.js.
-- 📫 How to reach me: [karangupta.be.com](mailto:karangupta.be.com)
+- 📫 How to reach me: [karangupta.be@gmail.com](mailto:karangupta.be@gmail.com)
 
 ---
 
