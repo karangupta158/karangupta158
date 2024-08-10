@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Karan]! 👋
 
 ![Welcome Banner](https://github.com/yourusername/yourusername/raw/main/welcome-banner.png)
 
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning advanced React patterns.
 - 👯 I’m looking to collaborate on open-source MERN stack projects.
 - 💬 Ask me about MongoDB, Express.js, React, and Node.js.
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [karangupta.be.com](mailto:karangupta.be.com)
 
 ---
 
@@ -18,9 +18,9 @@
 Description: An e-commerce application built with MongoDB, Express.js, React, and Node.js.
 [![Repository](https://img.shields.io/badge/Repo-ecommerce--app-green?style=flat-square&logo=github)](https://github.com/yourusername/ecommerce-app) [![Live Demo](https://img.shields.io/badge/Demo-Live-blue?style=flat-square&logo=vercel)](https://your-ecommerce-app.com)
 
-### Project 2: Social Network
+### Project 2: Expense Tracker
 ![Social Network](https://github.com/yourusername/social-network/raw/main/demo.gif)
-Description: A social networking site built with the MERN stack.
+Description: A Spneded money tracker built with the MERN stack.
 [![Repository](https://img.shields.io/badge/Repo-social--network-green?style=flat-square&logo=github)](https://github.com/yourusername/social-network) [![Live Demo](https://img.shields.io/badge/Demo-Live-blue?style=flat-square&logo=vercel)](https://your-social-network.com)
 
 ---
