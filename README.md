@@ -17,7 +17,7 @@ Description: An e-commerce application built with MongoDB, Express.js, React, an
 [![Repository](https://img.shields.io/badge/Repo-ecommerce--app-green?style=flat-square&logo=github)](https://github.com/yourusername/ecommerce-app) [![Live Demo](https://img.shields.io/badge/Demo-Live-blue?style=flat-square&logo=vercel)](https://your-ecommerce-app.com)
 
 ### Project 2: Expense Tracker
-![Social Network](https://github.com/yourusername/social-network/raw/main/demo.gif)
+![Expense Tracker](https://github.com/yourusername/social-network/raw/main/demo.gif)
 Description: A Spneded money tracker built with the MERN stack.
 [![Repository](https://img.shields.io/badge/Repo-social--network-green?style=flat-square&logo=github)](https://github.com/yourusername/social-network) [![Live Demo](https://img.shields.io/badge/Demo-Live-blue?style=flat-square&logo=vercel)](https://your-social-network.com)
 
